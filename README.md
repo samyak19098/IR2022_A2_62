@@ -1,6 +1,7 @@
 # IR2022_A2_62
 ### Samyak Jain(2019098) and Sarthak Johari(2019099)
 
+### Link to data + pickled files : https://drive.google.com/drive/folders/1Vy9Sr0JkosAUvzeFEodVsDufbonPxcyx?usp=sharing
 
 ## Question - 1
 
